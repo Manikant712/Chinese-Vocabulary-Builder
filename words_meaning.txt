@@ -1,0 +1,70 @@
+符号化,  fúhàohuà,  Symbolic
+计算化,  jìsuànhuà,  Computerized
+自动化,  zìdònghuà,  automation
+层构造化,  cénggōuzàohuà,  Layer structure of
+原码,  yuánmǎ,  Original code
+补码,  bǔmǎ,  Complement
+编码,  biānmǎ,  coding
+汉字内码,  hànzìnèimǎ,  Chinese Internal Code
+“或”运算,  “huò”yùnsuàn,  "Or" operation
+“与”运算,  “yǔ”yùnsuàn,  "And" operation
+“非”运算,  “fēi”yùnsuàn,  "Non" operation
+“异或”运算,  “yìhuò”yùnsuàn,  "Exclusive or" operation
+组合,  zǔhé,  combination
+与门,  yǔmén,  AND gate
+非门,  fēimén,  NAND gate
+或门,  huòmén,  OR
+异或门,  yìhuòmén,  XOR gate
+逻辑,  luójí,  logic
+万事万物符号化,  wànshìwànwùfúhàohuà,  Symbol of all things
+抽象过程,  chōuxiàngguòchéng,  Abstraction
+层次,  céngcì,  level
+补会,  bǔhùi,  Will fill
+被机器,  bèijīqì,  The machine
+易经,  yìjīng,  Book of Changes
+典型案列,  diǎnxíngànliè,  Typical Case
+哲学思想,  zhéxuésīxiǎng,  Philosophy
+命题,  mìngtí,  Proposition
+推理,  tūilǐ,  reasoning
+形式逻辑,  xíngshìluójí,  Formal Logic
+数理逻辑,  shùlǐluójí,  Mathematical logic
+数字逻辑,  shùzìluójí,  mathematical logic
+布尔逻辑,  bùěrluójí,  Boolean logic
+时序逻辑,  shíxùluójí,  Temporal Logic
+模态逻辑,  mótàiluójí,  Modal logic
+归纳逻辑,  gūinàluójí,  Inductive logic
+模糊逻辑,  móhúluójí,  Fuzzy Logic
+粗糙逻辑,  cūcāoluójí,  Rough Logic
+非单调逻辑,  fēidāndiàoluójí,  Nonmonotonic logic
+布尔,  bùěr,  Boolean
+布尔代数,  bùěrdàishù,  Boolean algebra
+位逻辑运算,  wèiluójíyùnsuàn,  Bitwise
+值逻辑运算,  zhíluójíyùnsuàn,  Value logic operation
+唯一性,  wéiyīxìng,  Uniqueness
+公共性,  gōnggòngxìng,  Publicity
+编码的时空性,  biānmǎdeshíkōngxìng,  The space-time coding
+编码的信息容量,  biānmǎdexìnxīróngliàng,  Encoded information capacity
+容量,  róngliàng,  capacity
+美国信息交换标准码,  měiguóxìnxījiāohuànbiāozhǔnmǎ,  American Standard Code for Information Interchange
+贡献,  gòngxiàn,  contribution
+幂次,  mìcì,  Power of
+信息交换用汉字编码字符集,  xìnxījiāohuànyònghànzìbiānmǎzìfújí,  Information exchange with the Chinese coded character set
+汉字内码,  hànzìnèimǎ,  Chinese Internal Code
+世界所有字符,  shìjièsuǒyǒuzìfú,  All the characters in the world
+文字的统一编码,  wénzìdetǒngyībiānmǎ,  Unicode text
+统一编码,  tǒngyībiānmǎ,  Unicode
+容纳,  róngnà,  accommodate
+字符编码方案,  zìfúbiānmǎfāngàn,  Character encoding scheme
+均省略,  jūnshěnglvè,  Were omitted
+汉字外码,  hànzìwàimǎ,  Kanji outer code
+汉字输入码,  hànzìshūrùmǎ,  Chinese character input code
+国际区位码,  guójìqūwèimǎ,  International area code
+拼音码,  pīnyīnmǎ,  Alphabet code
+字形码,  zìxíngmǎ,  Glyph code
+快速记忆,  kuàisùjìyì,  Fast memory
+快速输入,  kuàisùshūrù,  Fast input
+减少重码,  jiǎnshǎozhòngmǎ,  Reduce weight code
+汉字字摸点阵码,  hànzìzìmōdiǎnzhènmǎ,  Chinese character dot-matrix touch code
+矢量编码,  shǐliàngbiānmǎ,  Vector coding
+缩放,  suōfàng,  Scaling
+依据,  yījù,  in accordance with
