@@ -17,6 +17,6 @@ with open('words.txt') as f:
         
     
 
-##ts = translator.translate('你好')
+##ts = translator.translate('你好!')
 ##
 ##print(ts.text)
